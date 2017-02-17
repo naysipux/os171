@@ -1,0 +1,6 @@
+report for week00 assignment
+on week00, we are required to do some task
+-make a google account
+-make a github account then create a repository
+-fill out a form
+-then wait for 24 hours to see whether we are registered or not
