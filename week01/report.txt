@@ -1,0 +1,3 @@
+report for week01 assignment
+i learned how to use putty, how to connect to badak server then doing some tutotial in here
+then i learned to use github and a little scripting

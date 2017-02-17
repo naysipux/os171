@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 stefanus.james StafCS 4096 Feb 18 03:40 .
+drwx--x--x  3 stefanus.james StafCS 4096 Feb 18 03:38 ..
+drwxr-xr-x  8 stefanus.james StafCS 4096 Feb 18 03:39 .git
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:03 key
+-rw-r--r--  1 stefanus.james StafCS    0 Feb 18 03:40 lab01.txt
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:02 log
+-rw-r--r--  1 stefanus.james StafCS    7 Feb 16 15:50 README.md
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 18 03:27 sandbox
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 18 03:38 week00
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:00 week01
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:01 week02
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:01 week03
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:01 week04
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:01 week05
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:01 week06
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:02 week07
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:02 week08
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:02 week09
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:02 week10
+drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:03 xtra
+/home/fasilkom/mahasiswa/s/stefanus.james/os171/week01
