@@ -20,3 +20,5 @@ drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:02 week09
 drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:02 week10
 drwxr-xr-x  2 stefanus.james StafCS 4096 Feb 16 16:03 xtra
 /home/fasilkom/mahasiswa/s/stefanus.james/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 18 Feb 2017 at 04:09:47
