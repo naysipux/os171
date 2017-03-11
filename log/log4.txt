@@ -1,0 +1,11 @@
+w04-170307-10-LR-About: pointer, From: Lecturer
+w04-170307-10-LR-About: pointer, From: Lecturer
+w04-170307-11-LR-About: pointer, From: Lecturer
+w04-170307-11-LR-About: pointer, From: Lecturer
+w04-170309-10-LR-About: i/o, From: Lecturer
+w04-170309-10-LR-About: i/o, From: Lecturer
+w04-170309-11-LR-About: i/o, From: Lecturer
+w04-170309-11-LR-About: i/o, From: Lecturer
+w04-170311-10-PS-About: week4 assignment
+w04-170311-11-PS-About: week4 assignment
+w04-170311-11-PS-About: week4 assignment
